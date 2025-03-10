@@ -1,11 +1,11 @@
 # Grazie Alves 
 
 
-##Oiê, best!
+## Oiê, best!
 
 Eu sou a Graziella Alves, uma estudante de desenvolvimentos de sistemas de 17 anos. 
 
-###Projetos
+### Projetos
 1. Listas de exercícios - Portugol
 2. Lista de exercícios - Python
 3. Agenda de contatos - Python
