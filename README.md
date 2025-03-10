@@ -1,4 +1,15 @@
-## Hi there 👋
+# Grazie Alves 
+
+
+##Oiê, best!
+
+Eu sou a Graziella Alves, uma estudante de desenvolvimentos de sistemas de 17 anos. 
+
+###Projetos
+1. Listas de exercícios - Portugol
+2. Lista de exercícios - Python
+3. Agenda de contatos - Python
+4. Web Site Taylor Swift - HTML e CSS
 
 <!--
 **graziealves/graziealves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
