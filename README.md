@@ -1,7 +1,7 @@
 # Grazie Alves 
 
 
-## Oiê, best!
+## Hello, best! ;)
 
 Eu sou a Graziella Alves, uma estudante de desenvolvimentos de sistemas de 17 anos. 
 
