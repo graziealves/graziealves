@@ -12,8 +12,7 @@ Eu sou a Graziella Alves, uma estudante de desenvolvimentos de sistemas de 17 an
 4. Web Site Taylor Swift - HTML e CSS
 
 
-### Estou aprendendo 
-<img loading="lazy" src=<i class="devicon-threedsmax-plain "></i>>
+
           
 
 <!--
