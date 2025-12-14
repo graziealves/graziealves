@@ -3,20 +3,21 @@
 
 ## Hello, seja bem-vindo ao meu perfil!
 
-Eu sou a Graziella Alves, uma estudante de desenvolvimentos de sistemas de 17 anos. 
+Eu sou a Graziella Alves, uma desenvolvedora de 18 anos apaixonada por inovação, onde busco melhorar o cotidiano com ideias criativas e inclusivas. 
 
 ### Projetos
 1. Listas de exercícios - Portugol
 2. Lista de exercícios - Python
 3. Agenda de contatos - Python
-4. Web Site Taylor Swift - HTML e CSS
+4. Assistente de Reanimação em Situações de Emergência e Suporte (ARES) - JavaScript, CSS, HTML
 
 
 ### Aprendizados
-1. Python
-2. HTML
-3. CSS
-4. Portugol
+1. Python - Django
+2. JavaScript 
+3. HTML
+4. CSS 
+5. Portugol
 
 ### Contatos 
 - alvesgraziella9@gmail.com
